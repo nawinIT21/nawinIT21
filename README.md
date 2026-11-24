@@ -1,16 +1,17 @@
-## Hi there 👋
+### สวัสดีครับ ผม Nawin 👋
 
-<!--
-**nawinIT21/nawinIT21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 กำลังศึกษาและพัฒนาโปรเจกต์ด้าน **Web Development / Software Engineering**
+- 🌱 ตอนนี้กำลังเรียนรู้เกี่ยวกับ **React, Node.js และ Git/GitHub**
+- 📫 ช่องทางการติดต่อ: **your.email@example.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode)
+
+---
+
+### 📊 GitHub Stats
+
+![Nawin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawinIT21&show_icons=true&theme=tokyonight)
